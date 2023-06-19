@@ -1,5 +1,5 @@
 system {
-    host-name vyos
+    host-name gw.site
     login {
         user vyos {
             authentication {
