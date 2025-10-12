@@ -1,4 +1,5 @@
 debconf
+irqtop
 vyos-1x
 vyos-user-utils
 zstd
